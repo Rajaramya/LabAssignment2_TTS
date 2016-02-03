@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="loginpage">Login</string>
+    <string name="title_activity_user_interaction">UserInteractionActivity</string>
+    <string name="username">User Name</string>
+    <string name="password">Password</string>
+    <string name="loginbtn">Login</string>
+    <string name="secondpage">Helloworld</string>
+    <string name="speak">Speak</string>
+</resources>
